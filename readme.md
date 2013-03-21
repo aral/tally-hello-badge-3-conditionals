@@ -1,6 +1,6 @@
 <img src='http://aralbalkan.com/images/tally-label-conditionals.png'>
 
-Tally: conditional labels example.
+Tally Hello Badge Example: Conditionals (part 3 of 4)
 ===
 
 [In part 2](https://github.com/aral/tally-hello-badge-2-repetition), we used the [Tally template engine](http://tally.jit.su) ([fork Tally on GitHub](https://github.com/aral/tally)) to create multiple name badges from the single one we made [in part 1](https://github.com/aral/tally-hello-badge-1-text-and-attribute).
