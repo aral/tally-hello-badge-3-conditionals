@@ -19,7 +19,7 @@ How it works
 
 Templates in Tally are pure HTML 5. Tally uses ```data-``` attributes to populate templates either on the server or on the client (or both).
 
-One of those attributes, ```data-tally-if```, allows you to conditionally decide whether an element is shown or not. You can decide either falsy elements are simply hidden (```display:none```) or whether they are removed altogether from the DOM (server‐side only). You would chose the latter if you are not going to update your template on the client‐side (e.g., via AJAX calls or WebSocket events).
+One of those attributes, ```data-tally-if```, allows you to conditionally decide whether an element is shown or not. You can decide either falsy elements are simply hidden (```display:none```)&#8202;—&#8202;which is the default behaviour&#8202;—&#8202;or whether they are removed altogether from the DOM (server‐side only). You would chose the latter if you are not going to update your template on the client‐side (e.g., via AJAX calls or WebSocket events).
 
 The template
 ---
