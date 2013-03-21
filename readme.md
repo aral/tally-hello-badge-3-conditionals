@@ -75,6 +75,8 @@ That’s it!
 
 When you run the example, the badges of the speakers will have a note on them to that effect.
 
+Continue learning about Tally in [Part 4: Dummy Data](https://github.com/aral/tally-hello-badge-4-dummy-data).
+
 Table of Contents
 ---
 
