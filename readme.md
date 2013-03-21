@@ -44,7 +44,7 @@ The text in the newly added span&#8202;—&#8202;‘Speaker’&#8202;—&#8202;w
 The server
 ---
 
-On the server, the only change we need to make is to add a truthy ```isSpeaker``` property to the data object.
+On the server, the only change we need to make is to add a truthy ```isSpeaker``` property to some of the person objects.
 
 ```javascript
 express = require 'express'
