@@ -1,6 +1,6 @@
 {
         "name": "tally-hello-badge-3-conditionals"
-    ,   "description": "Hello Badge example #1: Demonstrates the data-tally-if attribute."
+    ,   "description": "Hello Badge example #3: Demonstrates the data-tally-if attribute."
     ,   "version": "0.0.1"
     ,   "author": "Aral Balkan <aral@aralbalkan.com>"
     ,   "dependencies": {
